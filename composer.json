@@ -1,0 +1,12 @@
+{
+    "name": "lachie/auto-signature",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Lachie Young",
+            "email": "Lachlanpsn@hotmail.com"
+        }
+    ]
+}
